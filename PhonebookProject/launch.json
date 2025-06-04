@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Phonebook App",
+        "request": "launch",
+        "mainClass": "PhonebookGUI",
+        "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
